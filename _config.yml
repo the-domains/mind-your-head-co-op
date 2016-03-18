@@ -1,0 +1,28 @@
+name: Mind Your Head Co-op
+favicon: null
+layout_spectrum: 0.7742248193826526
+typography_spectrum: 0.3628517626784742
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.19557631947100163
+  lightness: 0.2611754897516221
+  saturation: 0.9386905673891306
+  rhythmicContrast: 0.6558891518507153
+purpose: []
