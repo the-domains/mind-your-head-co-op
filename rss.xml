@@ -4,7 +4,7 @@
         <description><![CDATA[Mind Your Head Co-op]]></description>
         <link>http://mindyourheadcoop.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 17:54:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 17:55:17 GMT</lastBuildDate>
         <atom:link href="http://mindyourheadcoop.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Acceptance: Wow. This really is part of my life. Stage 5 of 7.]]></title>
@@ -71,10 +71,10 @@
         </item>
         <item>
             <title><![CDATA[Relaxing through the rocks in the road]]></title>
-            <description><![CDATA[<article><h1>Relaxing through the rocks in the road</h1><p>null</p></article>]]></description>
+            <description><![CDATA[<h1>Relaxing through the rocks in the road</h1>]]></description>
             <link>http://mindyourheadcoop.org/relaxing-through-the-rocks-in-the-road/index.html</link>
             <guid isPermaLink="false">50af1efd-86de-40d0-8f2f-03bda31b3f32</guid>
-            <pubDate>Fri, 25 Mar 2016 16:36:23 GMT</pubDate>
+            <pubDate>Fri, 25 Mar 2016 17:54:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
