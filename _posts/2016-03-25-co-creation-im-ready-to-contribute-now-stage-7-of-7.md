@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Co-Creating with God\_Because we are made in God’s image, we have the built in desire to help create God’s vision by doing what we can to make the world a better place."
-datePublished: '2016-03-25T15:51:02.423Z'
-dateModified: '2016-03-25T15:50:29.051Z'
+description: Co-Creating with God
+datePublished: '2016-03-25T17:38:19.016Z'
+dateModified: '2016-03-25T17:37:30.600Z'
 title: 'Co-Creation: I’m ready to contribute now… Stage 7 of 7'
 author: []
 sourcePath: _posts/2016-03-25-co-creation-im-ready-to-contribute-now-stage-7-of-7.md
@@ -22,8 +22,6 @@ url: co-creation-im-ready-to-contribute-now-stage-7-of-7/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1ad8631-07e3-40b8-8177-2c82c1d6373f.jpg)
-
 **Co-Creating with God**
 
 Because we are made in God's image, we have the built in desire to help create God's vision by doing what we can to make the world a better place.
@@ -42,7 +40,8 @@ Each of us is called to build relationships for they are what truly matter in li
 
 How you build relationship can be as varied as we are. It is usually profoundly simple things: being present with our children, our spouse, our close friends; volunteering to mentor a boy or girl; doing nothing, yet uniting our suffering with Christ's and serving as the light on the hill that can not be hidden. To often we define our lives by what we do rather than who we are. Who we are can have tremendous impact on others. Simply by how we choose to face adversity, others can discover hope, faith, love, and come to know who God is in their lives.
 
-**My Cross**  
+**My Cross**
+
 12--08--2003  
 _"Take up your cross and follow me," says Jesus our Christ._
 
