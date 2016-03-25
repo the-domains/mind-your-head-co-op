@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mind Your Head Co-op]]></title>
+        <description><![CDATA[Mind Your Head Co-op]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 25 Mar 2016 14:37:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Denial: This is NOT happening to me! Stage 1 of 7]]></title>
+            <description><![CDATA[<article><h1>Denial: This is NOT happening to me! Stage 1 of 7</h1><p>In its simplest form, denial finds us trying to convince ourselves that “this is not happening!” However, there are some very sly ways we can do this — all of which are futile attempts at controlling reality. One example comes from my own experience.</p></article>]]></description>
+            <link>undefineddenial-this-is-not-happening-to-me-stage-1-of-7/index.html</link>
+            <guid isPermaLink="false">2874945f-f1ca-4d18-873c-aeeba4039dd8</guid>
+            <pubDate>Fri, 25 Mar 2016 14:37:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
