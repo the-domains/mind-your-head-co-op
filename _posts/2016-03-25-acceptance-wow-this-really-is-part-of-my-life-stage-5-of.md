@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'God with usAcceptance comes when we finally stop trying to change reality and we know that God is with us. The more we can experience God being with us, especially during the harder times, the easier it is for us to accept what we are going through.'
-datePublished: '2016-03-25T14:39:51.376Z'
-dateModified: '2016-03-25T11:23:57.118Z'
+description: "God with us\_Acceptance comes when we finally stop trying to change reality and we know that God is with us. The more we can experience God being with us, especially during the harder times, the easier it is for us to accept what we are going through."
+datePublished: '2016-03-25T14:50:52.738Z'
+dateModified: '2016-03-25T14:50:34.545Z'
 title: 'Acceptance: Wow. This really is part of my life. Stage 5 of 7.'
 author: []
 authors: []
@@ -24,10 +24,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4a60c74-e9a8-49cf-aad5-0cd911bc629b.jpg)
 
-### Acceptance: Wow. This really is part of my life. Stage 5 of 7\.
-
-**God with us  
-**Acceptance comes when we finally stop trying to change reality and we know that God is with us. The more we can experience God being with us, especially during the harder times, the easier it is for us to accept what we are going through.
+**God with us**Acceptance comes when we finally stop trying to change reality and we know that God is with us. The more we can experience God being with us, especially during the harder times, the easier it is for us to accept what we are going through.
 
 **Grace**  
 I often hear "God doesn't give us something we can't handle." Horse apples! If that were true we wouldn't have suicide. It also assumes that God gave us this blasted TBI in the first place. God always offers us the grace to handle our challenges, but we have to turn toward God and accept his gift.
