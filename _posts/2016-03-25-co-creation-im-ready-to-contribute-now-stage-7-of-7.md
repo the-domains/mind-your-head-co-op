@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'That may seem like quite a large task. It is. Our part in it is, however, quite manageable. Sometimes the hardest part is figuring out what our part is. “What does God want me to do?” is one of the tricky questions in life. It doesn’t need to be. And being disabled may ironically free us to see the answer that has always been in front of our noses!'
-datePublished: '2016-03-25T17:52:49.694Z'
-dateModified: '2016-03-25T17:38:19.792Z'
+description: 'Because we are made in God’s image, we have the built in desire to help create God’s vision by doing what we can to make the world a better place.'
+datePublished: '2016-03-25T18:33:11.327Z'
+dateModified: '2016-03-25T18:32:35.125Z'
 title: 'Co-Creation: I’m ready to contribute now… Stage 7 of 7'
 author: []
 sourcePath: _posts/2016-03-25-co-creation-im-ready-to-contribute-now-stage-7-of-7.md
