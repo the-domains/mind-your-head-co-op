@@ -5,23 +5,25 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'In its simplest form, denial finds us trying to convince ourselves that “this is not happening!” However, there are some very sly ways we can do this — all of which are futile attempts at controlling reality. One example comes from my own experience.'
-datePublished: '2016-03-25T18:57:25.964Z'
-dateModified: '2016-03-25T18:56:45.795Z'
-title: 'Denial: This is NOT happening to me! Stage 1 of 7'
+description: 'For the first several months of my disabling TBI, I kept trying to will my symptoms away. I had had nearly twenty years of unknowingly willing various symptoms away (looking back, in reality I was ignoring or “cutting through” my symptoms rather than making them disappear) so I could live a normal life. I was quite successful at this, until the symptoms became to great to “cut through” or ignore due to my disabling concussion. I failed miserably, yet for some time was unwilling to acknowledge reality. I kept trying to will it away.'
+datePublished: '2016-03-25T19:20:20.149Z'
+dateModified: '2016-03-25T19:20:17.623Z'
+title: 'Denial: This is NOT happening to me!'
 author: []
+sourcePath: _posts/2016-03-25-denial-this-is-not-happening-to-me-stage-1-of-7.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-25-denial-this-is-not-happening-to-me-stage-1-of-7.md
-published: true
 url: denial-this-is-not-happening-to-me-stage-1-of-7/index.html
 _type: Article
 
 ---
+## Grieving Stage 1 of 7
+
 In its simplest form, denial finds us trying to convince ourselves that "this is not happening!" However, there are some very sly ways we can do this --- all of which are futile attempts at controlling reality. One example comes from my own experience.
 
 For the first several months of my disabling TBI, I kept trying to will my symptoms away. I had had nearly twenty years of unknowingly willing various symptoms away (looking back, in reality I was ignoring or "cutting through" my symptoms rather than making them disappear) so I could live a normal life. I was quite successful at this, until the symptoms became to great to "cut through" or ignore due to my disabling concussion. I failed miserably, yet for some time was unwilling to acknowledge reality. I kept trying to will it away.
