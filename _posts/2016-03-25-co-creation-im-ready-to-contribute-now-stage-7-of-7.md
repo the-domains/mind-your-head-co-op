@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Because we are made in God’s image, we have the built in desire to help create God’s vision by doing what we can to make the world a better place.'
-datePublished: '2016-03-25T18:33:11.327Z'
-dateModified: '2016-03-25T18:32:35.125Z'
+datePublished: '2016-03-25T18:43:13.781Z'
+dateModified: '2016-03-25T18:43:10.431Z'
 title: 'Co-Creation: I’m ready to contribute now… Stage 7 of 7'
 author: []
 sourcePath: _posts/2016-03-25-co-creation-im-ready-to-contribute-now-stage-7-of-7.md
@@ -72,3 +72,24 @@ and joyfully travel this pilgrim's journey
 as I strive to be your hands and feet.  
 Amen.  
 --Patrick A. Jones
+
+## Grieving Series Links
+
+[Introduction to Grieving with a TBI][0]
+
+1. [Denial: This is not happening to me][1].
+2. [Anger: Why is this happening][2]?
+3. [Bargaining: What if][3]?
+4. [Depression: I don't care anymore][4].
+5. [Acceptance: Wow. This really is part of my life][5].
+6. [Integration: What's different now][6]?
+7. [Co-Creation: I'm ready to contribute now][7]...
+
+[0]: http://mindyourheadcoop.org/grieving-a-tbi-to-heal-a-tbi/
+[1]: http://mindyourheadcoop.org/denial-this-is-not-happening-to-me-stage-1-of-7/
+[2]: http://mindyourheadcoop.org/anger-why-is-this-happening-to-me-stage-2-of-7/
+[3]: http://mindyourheadcoop.org/bargaining-what-if-stage-3-of-7/
+[4]: http://mindyourheadcoop.org/depression-i-dont-care-anymore-stage-4-of-7/
+[5]: http://mindyourheadcoop.org/acceptance-wow-this-really-is-part-of-my-life-stage-5-of/
+[6]: http://mindyourheadcoop.org/integration-how-is-life-different-the-same-who-am-i-now/
+[7]: http://mindyourheadcoop.org/co-creation-im-ready-to-contribute-now-stage-7-of-7/
