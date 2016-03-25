@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-25T14:37:52.620Z'
-dateModified: '2016-03-25T11:36:01.046Z'
+description: 'In its simplest form, denial finds us trying to convince ourselves that “this is not happening!” However, there are some very sly ways we can do this — all of which are futile attempts at controlling reality. One example comes from my own experience.'
+datePublished: '2016-03-25T14:49:20.844Z'
+dateModified: '2016-03-25T14:37:55.554Z'
 title: 'Denial: This is NOT happening to me! Stage 1 of 7'
 author: []
 authors: []
