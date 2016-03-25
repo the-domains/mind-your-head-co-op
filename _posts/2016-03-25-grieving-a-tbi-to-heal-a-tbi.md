@@ -5,32 +5,31 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "I Have to Deal With What?\_Our society does not deal with pain and loss very well, particularly pain that does not disappear after a week or two. So it should come as no surprise that we may not know how to deal with the pain we experience because of our loss of capacity. Close loved ones also need to grieve the loss, especially if their own lives have changed as a result."
-datePublished: '2016-03-25T14:48:21.019Z'
-dateModified: '2016-03-25T14:48:19.919Z'
-title: Grieving TBI
+description: I Have to Deal With What?
+datePublished: '2016-03-25T17:56:20.956Z'
+dateModified: '2016-03-25T17:56:17.618Z'
+title: Grieving a TBI to Heal a TBI
 author: []
+sourcePath: _posts/2016-03-25-grieving-a-tbi-to-heal-a-tbi.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-25-grieving-a-tbi-to-heal-a-tbi.md
-published: true
 url: grieving-a-tbi-to-heal-a-tbi/index.html
 _type: WebPage
 
 ---
+# Grieving a TBI to Heal a TBI
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1daf78c1-c9b3-4857-b355-8e2eec463871.jpg)
 
-### Grieving a TBI to Heal a TBI
-
-**I Have to Deal With What?**
+## I Have to Deal With What?
 
 Our society does not deal with pain and loss very well, particularly pain that does not disappear after a week or two. So it should come as no surprise that we may not know how to deal with the pain we experience because of our loss of capacity. Close loved ones also need to grieve the loss, especially if their own lives have changed as a result.
 
-**How We Grieve**
+## How We Grieve
 
 Grief is how we deal with loss. Everyone grieves differently; however, there are stages of grief common to most of us. Elizabeth Kubler-Ross in her book "Death and Dying" defined five stages of grief, which apply to any loss. I have added the final two stages because Kubler-Ross's last stage leaves us with accepting the loss --- there is still a lot to do if we want to contribute to the world around us.
 
@@ -40,8 +39,7 @@ Most of all, we need to realize that grief is never truly done. Even if we fully
 
 Grieving is not fun, but it is freeing. And the deeper our support from loved ones and community, the easier our journey. If you feel you need more support, please contact your priest or minister, the groups and resources in the link on the left, or myself ("Contact Deacon Patrick" at the bottom of the page). Though we must each travel this journey, we need not travel alone.
 
-**Spiral Staircase**  
-11--01--2003  
+Spiral Staircase 11--01--2003  
 _Written nearly one year after my disabling concussion. Simply naming that we're grieving can free us to experience this challenging form of healing._
 
 Grieving, they say, is a process of  
