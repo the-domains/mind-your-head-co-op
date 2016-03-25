@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I Have to Deal With What?\_Our society does not deal with pain and loss very well, particularly pain that does not disappear after a week or two. So it should come as no surprise that we may not know how to deal with the pain we experience because of our loss of capacity. Close loved ones also need to grieve the loss, especially if their own lives have changed as a result."
-datePublished: '2016-03-25T14:37:05.519Z'
-dateModified: '2016-03-25T14:36:58.969Z'
+datePublished: '2016-03-25T14:44:26.004Z'
+dateModified: '2016-03-25T14:38:13.922Z'
 title: Grieving a TBI to Heal a TBI
 author: []
 authors: []
