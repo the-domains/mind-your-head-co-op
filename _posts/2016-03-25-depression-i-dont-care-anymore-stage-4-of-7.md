@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Disclaimer\_If you, or someone you know has a desire to do yourself or others harm, you must seek out medical help immediately by calling 911."
-datePublished: '2016-03-25T18:19:25.400Z'
-dateModified: '2016-03-25T18:18:04.934Z'
+description: "\_If you, or someone you know has a desire to do yourself or others harm, you must seek out medical help immediately by calling 911."
+datePublished: '2016-03-25T18:19:54.273Z'
+dateModified: '2016-03-25T18:19:30.654Z'
 title: 'Depression: I don’t care anymore. Stage 4 of 7.'
 author: []
+sourcePath: _posts/2016-03-25-depression-i-dont-care-anymore-stage-4-of-7.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-25-depression-i-dont-care-anymore-stage-4-of-7.md
-published: true
 url: depression-i-dont-care-anymore-stage-4-of-7/index.html
 _type: Article
 
