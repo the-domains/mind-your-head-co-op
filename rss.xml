@@ -4,8 +4,15 @@
         <description><![CDATA[Mind Your Head Co-op]]></description>
         <link>http://mindyourheadcoop.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 16:42:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 16:43:22 GMT</lastBuildDate>
         <atom:link href="http://mindyourheadcoop.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>null</p>]]></description>
+            <link>http://mindyourheadcoop.org/null/index.html</link>
+            <guid isPermaLink="false">9e4a0894-ebb0-4c6b-ad17-a7fe5bf88718</guid>
+            <pubDate>Fri, 25 Mar 2016 16:43:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[One Year Stick Free!]]></title>
             <description><![CDATA[<article><h1>One Year Stick Free!</h1><p>Barbara, my wife, tells it this way: “One year ago today (11–25–2012, this was first published, 2013) we got back from Mass on Christ the King and you asked me to watch you. You leaned your sticks against the garage and took off. My instincts from years of having to catch you when you fall had me diving. But you kept going. Down the road. Past the bridge. Out of sight. Tears streamed down my cheeks as I watched you go.”</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://mindyourheadcoop.org/best-cognitive-therapy-help-others/index.html</link>
             <guid isPermaLink="false">203fae7a-dce0-4450-97e2-ae1a04592144</guid>
             <pubDate>Fri, 25 Mar 2016 16:23:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Adrenaline and Friends Half Life]]></title>
-            <description><![CDATA[<article><h1>Adrenaline and Friends Half Life</h1><p>It was only a few years ago I began to understand more fully the extend of harm to my capacity adrenaline causes and just how long it takes to leave my system. I suspect most of us with bludgeoned brains feel the effects of adrenaline and friends (there is a slew of neurochemical stuff released that no one is really sure what all it does) without even realizing it for the simple reason that we are under constant bombardment from stimulation.</p></article>]]></description>
-            <link>http://mindyourheadcoop.org/adrenaline-and-friends-half-life/index.html</link>
-            <guid isPermaLink="false">fc9f3f3e-a54e-43fe-8507-81023ea5bb77</guid>
-            <pubDate>Fri, 25 Mar 2016 16:21:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
