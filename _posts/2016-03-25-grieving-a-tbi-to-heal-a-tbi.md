@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: I Have to Deal With What?
-datePublished: '2016-03-25T17:56:20.956Z'
-dateModified: '2016-03-25T17:56:17.618Z'
+description: 'Our society does not deal with pain and loss very well, particularly pain that does not disappear after a week or two. So it should come as no surprise that we may not know how to deal with the pain we experience because of our loss of capacity. Close loved ones also need to grieve the loss, especially if their own lives have changed as a result.'
+datePublished: '2016-03-25T17:59:36.086Z'
+dateModified: '2016-03-25T17:59:08.206Z'
 title: Grieving a TBI to Heal a TBI
 author: []
 sourcePath: _posts/2016-03-25-grieving-a-tbi-to-heal-a-tbi.md
@@ -23,7 +23,6 @@ _type: WebPage
 
 ---
 # Grieving a TBI to Heal a TBI
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1daf78c1-c9b3-4857-b355-8e2eec463871.jpg)
 
 ## I Have to Deal With What?
 
