@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\_If you, or someone you know has a desire to do yourself or others harm, you must seek out medical help immediately by calling 911."
-datePublished: '2016-03-25T18:19:54.273Z'
-dateModified: '2016-03-25T18:19:30.654Z'
+datePublished: '2016-03-25T18:50:01.305Z'
+dateModified: '2016-03-25T18:49:59.299Z'
 title: 'Depression: I don’t care anymore. Stage 4 of 7.'
 author: []
 sourcePath: _posts/2016-03-25-depression-i-dont-care-anymore-stage-4-of-7.md
@@ -22,13 +22,13 @@ url: depression-i-dont-care-anymore-stage-4-of-7/index.html
 _type: Article
 
 ---
-## Disclaimer
+## Need Immediate Help?
 
 If you, or someone you know has a desire to do yourself or others harm, you must seek out medical help immediately by calling 911\.
 
 I tend to not spend a lot of time in this stage, so it is probably the hardest one for me to write. Somehow, I am able to make the decision to trust the new life promised through Jesus' resurrection and that hope helps me decide to quit moping and do something for someone else. Doing something for someone else is the best way I know for helping me to see afresh the goodness and blessing all around me.
 
-**Hope: The Doorway Out**
+## Hope: The Doorway To Life
 
 Depression is caused by a lack of hope. While there can be a chemical imbalance which medications can help, there is still an inherent lack of hope involved.
 
@@ -36,7 +36,7 @@ Perhaps I don't believe there is any hope. Perhaps I believe in hope but do not 
 
 Ultimately, I must believe that new life is available to me because Jesus died and rose again. Jesus did this so that this new life would be offered to everyone, regardless of time, place, or sinfulness. I must believe that there is nothing I can do that is unforgivable. Jesus took care of that on the cross. Hope, grace, and salvation are offered us. We have only to say "Yes!" with our lips, mind, heart, body, and soul (this kind of yes takes a lifetime to say!).
 
-**Two Kinds of Depression**
+## Two Kinds of Depression
 
 There may be more according to the shrinks, but for our purposes here there are two types of depression: the kind you can work through and the kind you can't.  
 The Kind You Can Work Through  
@@ -44,7 +44,7 @@ When life throws us a curve ball it can be easy to lose hope, or believe that ho
 
 Another approach is to name what we are feeling and get up and do something anyway. Often, if we do something for someone else, we are suddenly able to see hope again.
 
-**The Kind You Can't**
+## The Kind You Can't
 
 Typically know as clinical depression, this is the type of depression that requires professional medical help. If you think you may have this type of depression because you have felt listless, fatigued, unmotivated, or gloomy for more than a week, then you need to seek out a psychiatrist who specialized in head injuries. Neuropsychologists are very good places to begin.
 
@@ -52,7 +52,7 @@ Oddly enough, clinical depression has symptoms similar to those of TBI (varied f
 
 Further complicating matters, many doctors who are unfamiliar with TBI are unable to find a physical cause for the symptoms and so fall back on their "I haven't a clue" diagnosis of "It must be psychological" (Often CAT and MRIs show nothing, hence the reason neuropsych testing was developed). If you are confident that clinical depression has been ruled out and you have a doctor telling you this, they are likely missing something or are unfamiliar with TBI and you should find a different doctor.
 
-**Long, Hard Road**
+## Long, Hard Road
 
 02--11--2003  
 _I tend to pick an image or concept and play with it, struggle with it, refer to it often. The long, hard road, as though you hadn't noticed, is one of them._
@@ -91,29 +91,23 @@ the road.
 Amen.  
 --Patrick A. Jones
 
-#### The Complete Series on Grieving and TBI:
+## Grieving Series Links
 
-[Introduction to the Seven Stages of TBI Grief][0]
+[Introduction to Grieving with a TBI][0]
 
-1 [Denial: This isn't happening to me!][1]
+1. [Denial: This is not happening to me][1].
+2. [Anger: Why is this happening][2]?
+3. [Bargaining: What if][3]?
+4. [Depression: I don't care anymore][4].
+5. [Acceptance: Wow. This really is part of my life][5].
+6. [Integration: What's different now][6]?
+7. [Co-Creation: I'm ready to contribute now][7]...
 
-2 [Anger: Why is this happening to me?][2]
-
-3 [Bargaining: What if...?][3]
-
-4 [Depression: I don't care anymore.][4]
-
-5 [Acceptance: Wow. This really is part of my life.][5]
-
-6 [Integration: How is life different? The same? Who am I now?][6]
-
-7 [Co-Creation: I'm ready to contribute now][7]
-
-[0]: https://mindyourheadcoop.org/grieving-a-tbi-to-heal-a-tbi-6cc53ad2305e#.f89syomyv
-[1]: https://mindyourheadcoop.org/denial-this-is-not-happening-to-me-stage-1-of-7-2b59544b8929#.c37jerhio
-[2]: https://mindyourheadcoop.org/anger-why-is-this-happening-to-me-stage-2-of-7-ac1f7a92ec91#.d050tgwx3
-[3]: https://mindyourheadcoop.org/bargaining-what-if-stage-3-of-7-ead42c5bd4fb#.b5lnl73de
-[4]: https://mindyourheadcoop.org/depression-i-don-t-care-anymore-stage-4-of-7-12e938915b4d#.blsz029oq
-[5]: https://medium.com/@DeaconPatrick/acceptance-wow-this-really-is-part-of-my-life-stage-5-of-7-586af3628085#.h13cmmtlh
-[6]: https://medium.com/@DeaconPatrick/integration-how-is-life-different-the-same-who-am-i-now-stage-6-of-7-526a1b19890c#.opbev8fhq
-[7]: https://medium.com/@DeaconPatrick/co-creation-i-m-ready-to-contribute-now-stage-7-of-7-5b9477e60148#.vt81kmnq0
+[0]: http://mindyourheadcoop.org/grieving-a-tbi-to-heal-a-tbi/
+[1]: http://mindyourheadcoop.org/denial-this-is-not-happening-to-me-stage-1-of-7/
+[2]: http://mindyourheadcoop.org/anger-why-is-this-happening-to-me-stage-2-of-7/
+[3]: http://mindyourheadcoop.org/bargaining-what-if-stage-3-of-7/
+[4]: http://mindyourheadcoop.org/depression-i-dont-care-anymore-stage-4-of-7/
+[5]: http://mindyourheadcoop.org/acceptance-wow-this-really-is-part-of-my-life-stage-5-of/
+[6]: http://mindyourheadcoop.org/integration-how-is-life-different-the-same-who-am-i-now/
+[7]: http://mindyourheadcoop.org/co-creation-im-ready-to-contribute-now-stage-7-of-7/
