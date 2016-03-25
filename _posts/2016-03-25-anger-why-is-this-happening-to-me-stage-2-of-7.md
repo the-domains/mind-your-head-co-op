@@ -6,41 +6,41 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Angry at\_… God?\_Once we accept the reality that we are suffering, we begin to get angry that we are suffering. Why is this happening? And of all people, why is this happening to me? We want to believe there is a purpose to suffering, particularly our own."
-datePublished: '2016-03-25T15:46:46.549Z'
-dateModified: '2016-03-25T15:46:14.645Z'
+datePublished: '2016-03-25T18:00:40.223Z'
+dateModified: '2016-03-25T18:00:35.143Z'
 title: 'Anger: WHY is THIS happening to ME? Stage 2 of 7'
 author: []
+sourcePath: _posts/2016-03-25-anger-why-is-this-happening-to-me-stage-2-of-7.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-25-anger-why-is-this-happening-to-me-stage-2-of-7.md
-published: true
 url: anger-why-is-this-happening-to-me-stage-2-of-7/index.html
 _type: Article
 
 ---
-**Angry at ... God?**
+## Angry at ... God?
 
 Once we accept the reality that we are suffering, we begin to get angry that we are suffering. Why is this happening? And of all people, why is this happening to me? We want to believe there is a purpose to suffering, particularly our own.
 
 At first we may be angry at the circumstances that led to our suffering, or the person who caused it. However, we eventually realize that God, who knows all, sees all, and can do all, allowed this to happen to us. Why?! Why God?! Suddenly we realize we are angry at God. Will God punish us even more because we are angry with him? Was it God punishing us in the first place? Is punishment involved at all?
 
-**White Hat or Black Hat?**
+## White Hat or Black Hat?
 
 Which hat does anger wear? We often believe anger is a bad thing. It can be, if we give it free reign and allow it to control our reaction rather that viewing it as a sign that something is amiss and needs our attention, either within ourselves or within a relationship. Anger can very easily wear the black hat of hate and destruction.
 
 If, however, we recognize anger as a tool for telling us that something is not right and then seek to understand and remedy ourselves or our relationships, then anger is a very positive thing, wearing the white hat that helps root out what is wrong! The story of Job offers us examples of anger wearing both hats.
 
-**Job**
+## Job
 
 The book of Job tells the story of a man who feared the Lord (fear in the Hebrew sense means less "afraid" and more reverenced, held in awe, followed and obeyed). Then an accuser or adversary (not "Satan" in the sense we think of) asks a profound question: Does Job fear God simply because it is profitable?
 
 Horrible things happen to Job. Job curses the day he was born --- certainly angry that these things are happening! Much debating occurs between Job and his friends. Only Job addresses God. Through much of this, it is easy to picture job shaking his fist in anger as he says: "Oh, that I had one to hear me! ... Let the Almighty answer me!" (Job 31:35). Finally, in chapters 38--42, God and Job bicker and banter back and forth, each clearly angry with the other, yet caring so much for the other that they keep at it. Through it all, Job remains faithful to God and is ultimately rewarded for his faith.
 
-**Playing with Job**
+## Playing with Job
 
 Read the book of Job in the Bible (it is just before the Psalms).
 
@@ -53,8 +53,7 @@ Reflect, struggle with, play with, and write on the following questions:
 * How does the story of Job end? Is everyone angry with each other? Who helps heal the relationships? Why does God care about the relationship between Job and his friends? Between God and Job? And God and Job's friends?
 * Does this story ever answer why suffering happens? Or does it simply offer that it happens and that God cares for us enough to be with us and guide us through our suffering?
 
-Cruel Land  
-05--15--2003  
+Cruel Land 05--15--2003  
 _To shake our fist at God and demand to know "why?!" is to love God. To be angry yet act demure is to deny God._
 
 Why so cruel, bitter, and hard, Lord?  
