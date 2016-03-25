@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Acceptance comes when we finally stop trying to change reality and we know that God is with us. The more we can experience God being with us, especially during the harder times, the easier it is for us to accept what we are going through.'
-datePublished: '2016-03-25T17:54:33.148Z'
-dateModified: '2016-03-25T17:53:25.913Z'
+datePublished: '2016-03-25T18:46:32.413Z'
+dateModified: '2016-03-25T17:54:36.384Z'
 title: 'Acceptance: Wow. This really is part of my life. Stage 5 of 7.'
 author: []
 sourcePath: _posts/2016-03-25-acceptance-wow-this-really-is-part-of-my-life-stage-5-of.md
