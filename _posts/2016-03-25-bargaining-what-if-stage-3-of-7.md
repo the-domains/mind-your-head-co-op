@@ -1,0 +1,88 @@
+---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+starred: false
+keywords: []
+description: 'If I blame the person who ran the red light, or somehow caused the accident I am likely to be angry at them, curse them, but I ultimately realize that they do not have the ability to change what happened.'
+datePublished: '2016-03-25T14:39:09.326Z'
+dateModified: '2016-03-25T11:28:17.710Z'
+title: 'Bargaining: What if? Stage 3 of 7'
+author: []
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+sourcePath: _posts/2016-03-25-bargaining-what-if-stage-3-of-7.md
+published: true
+url: bargaining-what-if-stage-3-of-7/index.html
+_type: Article
+
+---
+### Bargaining: What if? Stage 3 of 7
+
+**Whose Fault Is It?**
+
+At the core of bargaining is the question: "Who do we blame for what has happened to us?" Whomever we blame is the one we need to strike some sort of deal with to make it all better.
+
+If I blame the person who ran the red light, or somehow caused the accident I am likely to be angry at them, curse them, but I ultimately realize that they do not have the ability to change what happened.
+
+If I blame myself for not looking before I went, or not ... then I will chastise myself with the terrible "what ifs". What if I'd looked before I entered the intersection? What if... What if... Again, though, we eventually realize that this is pointless because, well, our ability to change reality is still as dismal as it was when we were in denial, doggonit!
+
+So who do we know who can change reality? Hmmmm. God! If God wanted, God could make this all better. The conversation usually goes something like this:
+
+Me: OK God. You are all powerful and knowing. (gotta butter him up first!) I know I haven't been living like you want me to, so if I change how I live, make me better, OK?
+
+God: Hmmmmm. So, you think I caused this to happen to you? Because you weren't living quite right? Wow. You must really think I'm a jerk. I hope you get to know me better. This thing has caused you to turn toward me, so that's a good sign. I do indeed have the power to heal you. But I also have the power to do far more. You see, you have this gift, and I can help you learn how to use it. In fact, it's ironically easier to use because of your disability. What do you say?
+
+Me: Uh. Well. Ummmm. That's not what I had in mind. I want to be better. That's what's on the table here.
+
+God: Ahhh, yes. Well, you see, what I have on the table is how to help people know who I am. And you are in a unique position to do that, because of your disability. Kind of sucks, I know, but I have figured out a way that good can come out of this bad thing that happened to you. What do you say?
+
+**What if...**  
+05--03--2004
+
+The whatifs gather, gripe and moan.  
+In my mind they oft do chide,  
+Hounding me from every side.  
+Seeds of unrest so easily sown.
+
+Whatif this,  
+Whatif that,
+
+Each gathers heavily upon my back.  
+Amuse them, bemuse them, lower I stoop,  
+I haven't the strength to even recoup.  
+Tenacity is one thing whatifs do not lack.
+
+--Patrick A. Jones
+
+#### The Complete Series on Grieving and TBI:
+
+[Introduction to the Seven Stages of TBI Grief][0]
+
+1 [Denial: This isn't happening to me!][1]
+
+2 [Anger: Why is this happening to me?][2]
+
+3 [Bargaining: What if...?][3]
+
+4 [Depression: I don't care anymore.][4]
+
+5 [Acceptance: Wow. This really is part of my life.][5]
+
+6 [Integration: How is life different? The same? Who am I now?][6]
+
+7 [Co-Creation: I'm ready to contribute now][7]
+
+[0]: https://mindyourheadcoop.org/grieving-a-tbi-to-heal-a-tbi-6cc53ad2305e#.f89syomyv
+[1]: https://mindyourheadcoop.org/denial-this-is-not-happening-to-me-stage-1-of-7-2b59544b8929#.c37jerhio
+[2]: https://mindyourheadcoop.org/anger-why-is-this-happening-to-me-stage-2-of-7-ac1f7a92ec91#.d050tgwx3
+[3]: https://mindyourheadcoop.org/bargaining-what-if-stage-3-of-7-ead42c5bd4fb#.b5lnl73de
+[4]: https://mindyourheadcoop.org/depression-i-don-t-care-anymore-stage-4-of-7-12e938915b4d#.blsz029oq
+[5]: https://medium.com/@DeaconPatrick/acceptance-wow-this-really-is-part-of-my-life-stage-5-of-7-586af3628085#.h13cmmtlh
+[6]: https://medium.com/@DeaconPatrick/integration-how-is-life-different-the-same-who-am-i-now-stage-6-of-7-526a1b19890c#.opbev8fhq
+[7]: https://medium.com/@DeaconPatrick/co-creation-i-m-ready-to-contribute-now-stage-7-of-7-5b9477e60148#.vt81kmnq0
