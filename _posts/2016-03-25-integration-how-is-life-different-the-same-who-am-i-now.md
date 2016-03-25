@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-25T14:40:21.133Z'
-dateModified: '2016-03-25T11:12:59.951Z'
+description: "Does TBI Make Me a New Person?\_I have read that TBI causes us to become a new person. That is quite a stark statement. It startled me into realizing that I should not expect to be able to do what I used to. I have let go of my expectation, though not my desire, to be present in the same way I used to, to do the same things I used to, live life the same way I used to."
+datePublished: '2016-03-25T15:49:11.734Z'
+dateModified: '2016-03-25T14:54:58.565Z'
 title: 'Integration: How is life different? The same? Who am I now? Stage 6 of 7'
 author: []
 authors: []
@@ -22,11 +22,9 @@ url: integration-how-is-life-different-the-same-who-am-i-now/index.html
 _type: Article
 
 ---
-### Integration: How is life different? The same? Who am I now? Stage 6 of 7
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/85ae7abf-746e-49bf-86cb-aa0dc1529da4.jpg)
 
-**Does TBI Make Me a New Person?  
-**I have read that TBI causes us to become a new person. That is quite a stark statement. It startled me into realizing that I should not expect to be able to do what I used to. I have let go of my expectation, though not my desire, to be present in the same way I used to, to do the same things I used to, live life the same way I used to.
+**Does TBI Make Me a New Person?**I have read that TBI causes us to become a new person. That is quite a stark statement. It startled me into realizing that I should not expect to be able to do what I used to. I have let go of my expectation, though not my desire, to be present in the same way I used to, to do the same things I used to, live life the same way I used to.
 
 However, I am not a new person. I am the same person I was before I became disabled. My wife and close friends still relate with me similarly. We have not had to begin these relationship anew, as we would if I was a new person. My capacity has changed, but who I am has not.
 
