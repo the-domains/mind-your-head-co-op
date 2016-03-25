@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-25T14:39:28.536Z'
-dateModified: '2016-03-25T11:26:13.375Z'
+description: "Disclaimer\_If you, or someone you know has a desire to do yourself or others harm, you must seek out medical help immediately by calling 911."
+datePublished: '2016-03-25T15:47:51.563Z'
+dateModified: '2016-03-25T15:47:19.563Z'
 title: 'Depression: I don’t care anymore. Stage 4 of 7.'
 author: []
 authors: []
@@ -22,9 +22,8 @@ url: depression-i-dont-care-anymore-stage-4-of-7/index.html
 _type: Article
 
 ---
-### Depression: I don't care anymore. Stage 4 of 7\.
+**Disclaimer**
 
-**Disclaimer**  
 If you, or someone you know has a desire to do yourself or others harm, you must seek out medical help immediately by calling 911\.
 
 I tend to not spend a lot of time in this stage, so it is probably the hardest one for me to write. Somehow, I am able to make the decision to trust the new life promised through Jesus' resurrection and that hope helps me decide to quit moping and do something for someone else. Doing something for someone else is the best way I know for helping me to see afresh the goodness and blessing all around me.
