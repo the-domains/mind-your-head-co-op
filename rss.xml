@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Mind Your Head Co-op]]></title>
         <description><![CDATA[Mind Your Head Co-op]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://mindyourheadcoop.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 14:37:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 25 Mar 2016 14:38:54 GMT</lastBuildDate>
+        <atom:link href="http://mindyourheadcoop.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Anger: WHY is THIS happening to ME? Stage 2 of 7]]></title>
+            <description><![CDATA[<article><h1>Anger: WHY is THIS happening to ME? Stage 2 of 7</h1><p>Angry at … God? Once we accept the reality that we are suffering, we begin to get angry that we are suffering. Why is this happening? And of all people, why is this happening to me? We want to believe there is a purpose to suffering, particularly our own.</p></article>]]></description>
+            <link>http://mindyourheadcoop.org/anger-why-is-this-happening-to-me-stage-2-of-7/index.html</link>
+            <guid isPermaLink="false">8bbb701e-87ae-4916-b7e0-a010e1d91895</guid>
+            <pubDate>Fri, 25 Mar 2016 14:38:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Denial: This is NOT happening to me! Stage 1 of 7]]></title>
             <description><![CDATA[<article><h1>Denial: This is NOT happening to me! Stage 1 of 7</h1><p>In its simplest form, denial finds us trying to convince ourselves that “this is not happening!” However, there are some very sly ways we can do this — all of which are futile attempts at controlling reality. One example comes from my own experience.</p></article>]]></description>
-            <link>undefineddenial-this-is-not-happening-to-me-stage-1-of-7/index.html</link>
+            <link>http://mindyourheadcoop.org/denial-this-is-not-happening-to-me-stage-1-of-7/index.html</link>
             <guid isPermaLink="false">2874945f-f1ca-4d18-873c-aeeba4039dd8</guid>
             <pubDate>Fri, 25 Mar 2016 14:37:52 GMT</pubDate>
         </item>
