@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Though there are a rare few doctors whom I respect, I now know why the medical profession not longer deserves respect or high esteem. In 1964, the modern version of the Hippocratic Oath was written. It eliminates many of the safeguards for the patient and adds in responsibilities that are God’s alone. Let’s take a look at the differences and explore some of the subsequent and yet to come ramifications.'
-datePublished: '2016-03-25T16:45:05.029Z'
-dateModified: '2016-03-25T16:45:04.647Z'
+datePublished: '2016-03-25T17:40:01.673Z'
+dateModified: '2016-03-25T16:57:43.170Z'
 title: What you don’t know about the Hippocratic Oath may kill you
 author: []
 authors: []
