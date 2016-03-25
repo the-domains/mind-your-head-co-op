@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Angry at\_… God?\_Once we accept the reality that we are suffering, we begin to get angry that we are suffering. Why is this happening? And of all people, why is this happening to me? We want to believe there is a purpose to suffering, particularly our own."
-datePublished: '2016-03-25T18:00:40.223Z'
-dateModified: '2016-03-25T18:00:35.143Z'
+description: 'Once we accept the reality that we are suffering, we begin to get angry that we are suffering. Why is this happening? And of all people, why is this happening to me? We want to believe there is a purpose to suffering, particularly our own.'
+datePublished: '2016-03-25T18:55:36.239Z'
+dateModified: '2016-03-25T18:00:47.911Z'
 title: 'Anger: WHY is THIS happening to ME? Stage 2 of 7'
 author: []
 sourcePath: _posts/2016-03-25-anger-why-is-this-happening-to-me-stage-2-of-7.md
