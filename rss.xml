@@ -4,8 +4,15 @@
         <description><![CDATA[Mind Your Head Co-op]]></description>
         <link>http://mindyourheadcoop.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 17:39:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 17:39:50 GMT</lastBuildDate>
         <atom:link href="http://mindyourheadcoop.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Does TBI Make Me a New Person?]]></title>
+            <description><![CDATA[<article><h1>Does TBI Make Me a New Person?</h1><p>undefined</p></article>]]></description>
+            <link>http://mindyourheadcoop.org/integration-how-is-life-different-the-same-who-am-i-now/index.html</link>
+            <guid isPermaLink="false">1388e365-b2ff-4fc8-9cca-7ee159057329</guid>
+            <pubDate>Fri, 25 Mar 2016 17:39:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Co-Creation: I’m ready to contribute now… Stage 7 of 7]]></title>
             <description><![CDATA[<article><h1>Co-Creation: I’m ready to contribute now… Stage 7 of 7</h1><p>Co-Creating with God</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://mindyourheadcoop.org/spend-a-day-on-planet-tbi/index.html</link>
             <guid isPermaLink="false">eb2940d6-ee0b-495b-b2f0-d41dff085197</guid>
             <pubDate>Fri, 25 Mar 2016 16:29:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are your eyes covered? I need a drink.]]></title>
-            <description><![CDATA[<article><h1>Are your eyes covered? I need a drink.</h1><p>This is what my wife asked me last night as I was in bed. It seems absurd. Yet with brain injury it makes perfect sense, and it well illustrates what families with a brain injured person do all the time to accommodate their brain injured member.</p></article>]]></description>
-            <link>http://mindyourheadcoop.org/are-your-eyes-covered-i-need-a-drink/index.html</link>
-            <guid isPermaLink="false">f788b187-3ca6-49b5-a7e7-c5a2da826b77</guid>
-            <pubDate>Fri, 25 Mar 2016 16:28:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
