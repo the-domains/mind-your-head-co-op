@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Disclaimer\_If you, or someone you know has a desire to do yourself or others harm, you must seek out medical help immediately by calling 911."
-datePublished: '2016-03-25T15:47:51.563Z'
-dateModified: '2016-03-25T15:47:19.563Z'
+datePublished: '2016-03-25T18:19:25.400Z'
+dateModified: '2016-03-25T18:18:04.934Z'
 title: 'Depression: I don’t care anymore. Stage 4 of 7.'
 author: []
 authors: []
@@ -22,31 +22,39 @@ url: depression-i-dont-care-anymore-stage-4-of-7/index.html
 _type: Article
 
 ---
-**Disclaimer**
+## Disclaimer
 
 If you, or someone you know has a desire to do yourself or others harm, you must seek out medical help immediately by calling 911\.
 
 I tend to not spend a lot of time in this stage, so it is probably the hardest one for me to write. Somehow, I am able to make the decision to trust the new life promised through Jesus' resurrection and that hope helps me decide to quit moping and do something for someone else. Doing something for someone else is the best way I know for helping me to see afresh the goodness and blessing all around me.
 
-**Hope: The Doorway Out**Depression is caused by a lack of hope. While there can be a chemical imbalance which medications can help, there is still an inherent lack of hope involved.
+**Hope: The Doorway Out**
+
+Depression is caused by a lack of hope. While there can be a chemical imbalance which medications can help, there is still an inherent lack of hope involved.
 
 Perhaps I don't believe there is any hope. Perhaps I believe in hope but do not believe I am worthy of receiving it. To work through my depression I must not only believe in hope, I must believe that this hope is available to me.
 
 Ultimately, I must believe that new life is available to me because Jesus died and rose again. Jesus did this so that this new life would be offered to everyone, regardless of time, place, or sinfulness. I must believe that there is nothing I can do that is unforgivable. Jesus took care of that on the cross. Hope, grace, and salvation are offered us. We have only to say "Yes!" with our lips, mind, heart, body, and soul (this kind of yes takes a lifetime to say!).
 
-**Two Kinds of Depression**There may be more according to the shrinks, but for our purposes here there are two types of depression: the kind you can work through and the kind you can't.  
+**Two Kinds of Depression**
+
+There may be more according to the shrinks, but for our purposes here there are two types of depression: the kind you can work through and the kind you can't.  
 The Kind You Can Work Through  
 When life throws us a curve ball it can be easy to lose hope, or believe that hope is unavailable to me because I am unworthy. Having faith in God is key to working through this temporary depression, but we don't usually feel this faith for a while. Allow yourself to feel the way you feel. Feel sorry for yourself. Be glum, listless, inactive. Express yourself through prayer, writing in a journal, talking with your spouse or close friend. By naming what we feel we can begin to begin to heal.
 
 Another approach is to name what we are feeling and get up and do something anyway. Often, if we do something for someone else, we are suddenly able to see hope again.
 
-**The Kind You Can't**Typically know as clinical depression, this is the type of depression that requires professional medical help. If you think you may have this type of depression because you have felt listless, fatigued, unmotivated, or gloomy for more than a week, then you need to seek out a psychiatrist who specialized in head injuries. Neuropsychologists are very good places to begin.
+**The Kind You Can't**
+
+Typically know as clinical depression, this is the type of depression that requires professional medical help. If you think you may have this type of depression because you have felt listless, fatigued, unmotivated, or gloomy for more than a week, then you need to seek out a psychiatrist who specialized in head injuries. Neuropsychologists are very good places to begin.
 
 Oddly enough, clinical depression has symptoms similar to those of TBI (varied fatigue being the big one). Often in a person with TBI, the TBI has led to depression, but goes undiagnosed because they are diagnosed with depression as the cause of their symptoms. Learning what is caused by TBI and what is caused by depression is a tricky business.
 
 Further complicating matters, many doctors who are unfamiliar with TBI are unable to find a physical cause for the symptoms and so fall back on their "I haven't a clue" diagnosis of "It must be psychological" (Often CAT and MRIs show nothing, hence the reason neuropsych testing was developed). If you are confident that clinical depression has been ruled out and you have a doctor telling you this, they are likely missing something or are unfamiliar with TBI and you should find a different doctor.
 
-**Long, Hard Road**02--11--2003  
+**Long, Hard Road**
+
+02--11--2003  
 _I tend to pick an image or concept and play with it, struggle with it, refer to it often. The long, hard road, as though you hadn't noticed, is one of them._
 
 It's a long, hard road  
