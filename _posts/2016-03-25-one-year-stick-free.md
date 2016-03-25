@@ -5,17 +5,17 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-25T16:42:18.788Z'
-dateModified: '2016-03-25T16:42:04.278Z'
+description: 'Barbara, my wife, tells it this way: “One year ago today (11–25–2012, this was first published, 2013) we got back from Mass on Christ the King and you asked me to watch you. You leaned your sticks against the garage and took off. My instincts from years of having to catch you when you fall had me diving. But you kept going. Down the road. Past the bridge. Out of sight. Tears streamed down my cheeks as I watched you go.”'
+datePublished: '2016-03-25T17:40:18.738Z'
+dateModified: '2016-03-25T16:42:24.116Z'
 title: 'One Year Stick Free!'
+author: []
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
 sourcePath: _posts/2016-03-25-one-year-stick-free.md
 published: true
 url: one-year-stick-free/index.html
