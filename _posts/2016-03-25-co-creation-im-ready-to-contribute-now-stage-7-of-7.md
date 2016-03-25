@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Co-Creating with God
-datePublished: '2016-03-25T17:38:19.016Z'
-dateModified: '2016-03-25T17:37:30.600Z'
+description: 'That may seem like quite a large task. It is. Our part in it is, however, quite manageable. Sometimes the hardest part is figuring out what our part is. “What does God want me to do?” is one of the tricky questions in life. It doesn’t need to be. And being disabled may ironically free us to see the answer that has always been in front of our noses!'
+datePublished: '2016-03-25T17:52:49.694Z'
+dateModified: '2016-03-25T17:38:19.792Z'
 title: 'Co-Creation: I’m ready to contribute now… Stage 7 of 7'
 author: []
 sourcePath: _posts/2016-03-25-co-creation-im-ready-to-contribute-now-stage-7-of-7.md
@@ -22,25 +22,25 @@ url: co-creation-im-ready-to-contribute-now-stage-7-of-7/index.html
 _type: Article
 
 ---
-**Co-Creating with God**
+## Co-Creating with God
 
 Because we are made in God's image, we have the built in desire to help create God's vision by doing what we can to make the world a better place.
 
 That may seem like quite a large task. It is. Our part in it is, however, quite manageable. Sometimes the hardest part is figuring out what our part is. "What does God want me to do?" is one of the tricky questions in life. It doesn't need to be. And being disabled may ironically free us to see the answer that has always been in front of our noses!
 
-**What am I passionate about?**
+## What am I passionate about?
 
 What am I passionate about? Where does my enthusiasm lie. What do I enjoy doing?
 
 Answer these questions and you are well on your way to knowing what God wants you to do. After all, God made you and gave you those passions for a reason (however misguided they may have become!). But there is one thing that always is a part of what we are each called to do: build relationship.
 
-**Building Relationship**
+## Building Relationship
 
 Each of us is called to build relationships for they are what truly matter in life. Everyone of the Ten Commandments is about upholding right relationship. Healthy relationships help people become who God created them to be and this always leads to changes that are truly lasting and can literally change the world.
 
 How you build relationship can be as varied as we are. It is usually profoundly simple things: being present with our children, our spouse, our close friends; volunteering to mentor a boy or girl; doing nothing, yet uniting our suffering with Christ's and serving as the light on the hill that can not be hidden. To often we define our lives by what we do rather than who we are. Who we are can have tremendous impact on others. Simply by how we choose to face adversity, others can discover hope, faith, love, and come to know who God is in their lives.
 
-**My Cross**
+## My Cross
 
 12--08--2003  
 _"Take up your cross and follow me," says Jesus our Christ._
@@ -72,5 +72,3 @@ and joyfully travel this pilgrim's journey
 as I strive to be your hands and feet.  
 Amen.  
 --Patrick A. Jones
-
-#### The Complete Series on Grieving and TBI:
