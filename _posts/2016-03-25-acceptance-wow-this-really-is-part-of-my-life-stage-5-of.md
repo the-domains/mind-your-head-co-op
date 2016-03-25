@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'God with usAcceptance comes when we finally stop trying to change reality and we know that God is with us. The more we can experience God being with us, especially during the harder times, the easier it is for us to accept what we are going through.'
-datePublished: '2016-03-25T15:41:26.846Z'
-dateModified: '2016-03-25T14:50:53.718Z'
+datePublished: '2016-03-25T15:48:22.174Z'
+dateModified: '2016-03-25T15:48:19.306Z'
 title: 'Acceptance: Wow. This really is part of my life. Stage 5 of 7.'
 author: []
 authors: []
@@ -22,21 +22,33 @@ url: acceptance-wow-this-really-is-part-of-my-life-stage-5-of/index.html
 _type: Article
 
 ---
-**God with us**Acceptance comes when we finally stop trying to change reality and we know that God is with us. The more we can experience God being with us, especially during the harder times, the easier it is for us to accept what we are going through.**Grace**
+**God with us**
+
+Acceptance comes when we finally stop trying to change reality and we know that God is with us. The more we can experience God being with us, especially during the harder times, the easier it is for us to accept what we are going through.
+
+**Grace**
 
 I often hear "God doesn't give us something we can't handle." Horse apples! If that were true we wouldn't have suicide. It also assumes that God gave us this blasted TBI in the first place. God always offers us the grace to handle our challenges, but we have to turn toward God and accept his gift.
 
-**How to Accept Grace**Accepting God's grace usually means letting go of something in ourselves that is less than what God created us to be.
+**How to Accept Grace**
+
+Accepting God's grace usually means letting go of something in ourselves that is less than what God created us to be.
 
 Who did God create us to be? Genesis tells us that we are made in God's image. God created us each to be a unique expression of him. That expression is the fullness of who God created us to be.
 
 However, because we have an inclination toward ignoring God and doing our own thing (sin), we often pile mud and muck all about ourselves and mistake it for who we are. Sometimes accepting God grace, the very grace we need to handle life's challenges, means letting go of some of this mud and muck that isn't really us.
 
-**Signs of Acceptance**Signs that we are beginning to accept the reality of our TBI include: not flinching when we mention to someone that we have TBI, beginning to be aware that others around us have challenges also, being thankful for all that we do have, and starting to ask ourselves "What can I do?".
+**Signs of Acceptance**
 
-**Deciding to Enjoy Life**Happiness is nothing more than being content with what is. Happiness is a decision to enjoy what is. It is not some elusive butterfly that flitters from flower to flower. Happiness is the decision to seek the joy rather than the pain.
+Signs that we are beginning to accept the reality of our TBI include: not flinching when we mention to someone that we have TBI, beginning to be aware that others around us have challenges also, being thankful for all that we do have, and starting to ask ourselves "What can I do?".
 
-**Disabled**2--11--2003  
+**Deciding to Enjoy Life**
+
+Happiness is nothing more than being content with what is. Happiness is a decision to enjoy what is. It is not some elusive butterfly that flitters from flower to flower. Happiness is the decision to seek the joy rather than the pain.
+
+**Disabled**
+
+2--11--2003  
 _Words are important and powerful. I am convinced that until we can accept the word disabled, we can not accept our disability._
 
 I am not differently abled,  
@@ -56,7 +68,9 @@ Because in this I
 Find life and hope.  
 --Patrick A. Jones
 
-**Rejoice!**01--08--2003  
+**Rejoice!**
+
+01--08--2003  
 _Written before we had any idea I had TBI._
 
 Rejoice! My heart leaps in gladness  
