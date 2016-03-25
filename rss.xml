@@ -4,8 +4,15 @@
         <description><![CDATA[Mind Your Head Co-op]]></description>
         <link>http://mindyourheadcoop.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 16:21:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 16:23:07 GMT</lastBuildDate>
         <atom:link href="http://mindyourheadcoop.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Best Cognitive therapy: Help Others]]></title>
+            <description><![CDATA[<h1>Best Cognitive therapy: Help Others</h1>]]></description>
+            <link>http://mindyourheadcoop.org/best-cognitive-therapy-help-others/index.html</link>
+            <guid isPermaLink="false">203fae7a-dce0-4450-97e2-ae1a04592144</guid>
+            <pubDate>Fri, 25 Mar 2016 16:23:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Adrenaline and Friends Half Life]]></title>
             <description><![CDATA[<article><h1>Adrenaline and Friends Half Life</h1><p>It was only a few years ago I began to understand more fully the extend of harm to my capacity adrenaline causes and just how long it takes to leave my system. I suspect most of us with bludgeoned brains feel the effects of adrenaline and friends (there is a slew of neurochemical stuff released that no one is really sure what all it does) without even realizing it for the simple reason that we are under constant bombardment from stimulation.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://mindyourheadcoop.org/anger-why-is-this-happening-to-me-stage-2-of-7/index.html</link>
             <guid isPermaLink="false">8bbb701e-87ae-4916-b7e0-a010e1d91895</guid>
             <pubDate>Fri, 25 Mar 2016 15:46:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Denial: This is NOT happening to me! Stage 1 of 7]]></title>
-            <description><![CDATA[<article><h1>Denial: This is NOT happening to me! Stage 1 of 7</h1><p>In its simplest form, denial finds us trying to convince ourselves that “this is not happening!” However, there are some very sly ways we can do this — all of which are futile attempts at controlling reality. One example comes from my own experience.</p></article>]]></description>
-            <link>http://mindyourheadcoop.org/denial-this-is-not-happening-to-me-stage-1-of-7/index.html</link>
-            <guid isPermaLink="false">2874945f-f1ca-4d18-873c-aeeba4039dd8</guid>
-            <pubDate>Fri, 25 Mar 2016 14:49:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
