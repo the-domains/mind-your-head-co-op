@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: undefined
-datePublished: '2016-03-25T16:27:07.286Z'
-dateModified: '2016-03-25T16:26:53.101Z'
+description: 'TBI anger is unlike any other kind of anger. It taps into our primal instinct to protect ourselves, like any wounded, cornered animal, with a burst of adrenaline. This is the source of the raw, primal strength, energy, focus, and coordination. Once it hits, it can not be stopped, only redirected in a safe direction.'
+datePublished: '2016-03-25T17:51:37.404Z'
+dateModified: '2016-03-25T17:51:32.366Z'
 title: 'TBI Anger: Understanding and helping'
 author: []
+sourcePath: _posts/2016-03-25-tbi-anger-understanding-and-helping.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-25-tbi-anger-understanding-and-helping.md
-published: true
 url: tbi-anger-understanding-and-helping/index.html
 _type: Article
 
