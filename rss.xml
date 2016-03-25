@@ -4,8 +4,15 @@
         <description><![CDATA[Mind Your Head Co-op]]></description>
         <link>http://mindyourheadcoop.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 16:43:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 16:45:06 GMT</lastBuildDate>
         <atom:link href="http://mindyourheadcoop.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First, do no harm?]]></title>
+            <description><![CDATA[<article><h1>First, do no harm?</h1><p>Though there are a rare few doctors whom I respect, I now know why the medical profession not longer deserves respect or high esteem. In 1964, the modern version of the Hippocratic Oath was written. It eliminates many of the safeguards for the patient and adds in responsibilities that are God’s alone. Let’s take a look at the differences and explore some of the subsequent and yet to come ramifications.</p></article>]]></description>
+            <link>http://mindyourheadcoop.org/what-you-dont-know-about-the-hippocratic-oath-may-kill-you/index.html</link>
+            <guid isPermaLink="false">b9d9d2e2-d874-4812-94c7-8add60c5cc48</guid>
+            <pubDate>Fri, 25 Mar 2016 16:45:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>null</p>]]></description>
@@ -68,13 +75,6 @@
             <link>http://mindyourheadcoop.org/tbi-anger-understanding-and-helping/index.html</link>
             <guid isPermaLink="false">cfc0b5c4-316f-491f-a384-73cd015d4c50</guid>
             <pubDate>Fri, 25 Mar 2016 16:27:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Best Cognitive therapy: Help Others]]></title>
-            <description><![CDATA[<article><h1>Best Cognitive therapy: Help Others</h1><p>The best cognitive therapy (activity that stimulates brain connections and healing) there is is reaching out sideways to help others. St. Francis’ prescription for eternal wealth is also a powerful prescription for brain health and recovery.</p></article>]]></description>
-            <link>http://mindyourheadcoop.org/best-cognitive-therapy-help-others/index.html</link>
-            <guid isPermaLink="false">203fae7a-dce0-4450-97e2-ae1a04592144</guid>
-            <pubDate>Fri, 25 Mar 2016 16:23:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
