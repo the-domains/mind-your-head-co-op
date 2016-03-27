@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: undefined
-datePublished: '2016-03-25T17:39:49.880Z'
-dateModified: '2016-03-25T17:39:44.612Z'
+description: 'I have read that TBI causes us to become a new person. That is quite a stark statement. It startled me into realizing that I should not expect to be able to do what I used to. I have let go of my expectation, though not my desire, to be present in the same way I used to, to do the same things I used to, live life the same way I used to.'
+datePublished: '2016-03-27T16:42:58.959Z'
+dateModified: '2016-03-27T16:42:22.910Z'
 title: 'Integration: How is life different? The same? Who am I now? Stage 6 of 7'
 author: []
+sourcePath: _posts/2016-03-25-integration-how-is-life-different-the-same-who-am-i-now.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-25-integration-how-is-life-different-the-same-who-am-i-now.md
-published: true
 url: integration-how-is-life-different-the-same-who-am-i-now/index.html
 _type: Article
 
@@ -63,3 +63,24 @@ Remove what must be to reveal
 your beauty --- present all along.  
 Amen.  
  --- Patrick A. Jones
+
+## Grieving Series Links
+
+[Introduction to Grieving with a TBI][0]
+
+1. [Denial: This is not happening to me][1].
+2. [Anger: Why is this happening][2]?
+3. [Bargaining: What if][3]?
+4. [Depression: I don't care anymore][4].
+5. [Acceptance: Wow. This really is part of my life][5].
+6. [Integration: What's different now][6]?
+7. [Co-Creation: I'm ready to contribute now][7]...
+
+[0]: http://mindyourheadcoop.org/grieving-a-tbi-to-heal-a-tbi/
+[1]: http://mindyourheadcoop.org/denial-this-is-not-happening-to-me-stage-1-of-7/
+[2]: http://mindyourheadcoop.org/anger-why-is-this-happening-to-me-stage-2-of-7/
+[3]: http://mindyourheadcoop.org/bargaining-what-if-stage-3-of-7/
+[4]: http://mindyourheadcoop.org/depression-i-dont-care-anymore-stage-4-of-7/
+[5]: http://mindyourheadcoop.org/acceptance-wow-this-really-is-part-of-my-life-stage-5-of/
+[6]: http://mindyourheadcoop.org/integration-how-is-life-different-the-same-who-am-i-now/
+[7]: http://mindyourheadcoop.org/co-creation-im-ready-to-contribute-now-stage-7-of-7/
