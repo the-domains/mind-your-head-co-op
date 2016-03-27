@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Acceptance comes when we finally stop trying to change reality and we know that God is with us. The more we can experience God being with us, especially during the harder times, the easier it is for us to accept what we are going through.'
-datePublished: '2016-03-25T18:46:32.413Z'
-dateModified: '2016-03-25T17:54:36.384Z'
+datePublished: '2016-03-27T16:43:58.541Z'
+dateModified: '2016-03-27T16:43:54.490Z'
 title: 'Acceptance: Wow. This really is part of my life. Stage 5 of 7.'
 author: []
 sourcePath: _posts/2016-03-25-acceptance-wow-this-really-is-part-of-my-life-stage-5-of.md
@@ -26,11 +26,11 @@ _type: Article
 
 Acceptance comes when we finally stop trying to change reality and we know that God is with us. The more we can experience God being with us, especially during the harder times, the easier it is for us to accept what we are going through.
 
-**Grace**
+## Grace
 
 I often hear "God doesn't give us something we can't handle." Horse apples! If that were true we wouldn't have suicide. It also assumes that God gave us this blasted TBI in the first place. God always offers us the grace to handle our challenges, but we have to turn toward God and accept his gift.
 
-**How to Accept Grace**
+## How to Accept Grace
 
 Accepting God's grace usually means letting go of something in ourselves that is less than what God created us to be.
 
@@ -38,15 +38,15 @@ Who did God create us to be? Genesis tells us that we are made in God's image. G
 
 However, because we have an inclination toward ignoring God and doing our own thing (sin), we often pile mud and muck all about ourselves and mistake it for who we are. Sometimes accepting God grace, the very grace we need to handle life's challenges, means letting go of some of this mud and muck that isn't really us.
 
-**Signs of Acceptance**
+## Signs of Acceptance
 
 Signs that we are beginning to accept the reality of our TBI include: not flinching when we mention to someone that we have TBI, beginning to be aware that others around us have challenges also, being thankful for all that we do have, and starting to ask ourselves "What can I do?".
 
-**Deciding to Enjoy Life**
+## Deciding to Enjoy Life
 
 Happiness is nothing more than being content with what is. Happiness is a decision to enjoy what is. It is not some elusive butterfly that flitters from flower to flower. Happiness is the decision to seek the joy rather than the pain.
 
-**Disabled**
+## Disabled
 
 2--11--2003  
 _Words are important and powerful. I am convinced that until we can accept the word disabled, we can not accept our disability._
@@ -68,7 +68,7 @@ Because in this I
 Find life and hope.  
 --Patrick A. Jones
 
-**Rejoice!**
+## Rejoice!
 
 01--08--2003  
 _Written before we had any idea I had TBI._
@@ -104,29 +104,29 @@ even in the crisp clear memory of a tear.
 Amen.  
 --Patrick A. Jones
 
-#### The Complete Series on Grieving and TBI:
+## Grieving Series Links
 
-[Introduction to the Seven Stages of TBI Grief][0]
+[Introduction to Grieving with a TBI][0]
 
-1 [Denial: This isn't happening to me!][1]
+1. [Denial: This is not happening to me][1].
+2. 
+[Anger: Why is this happening][2]?
+3. 
+[Bargaining: What if][3]?
+4. 
+[Depression: I don't care anymore][4].
+5. 
+[Acceptance: Wow. This really is part of my life][5].
+6. 
+[Integration: What's different now][6]?
+7. 
+[Co-Creation: I'm ready to contribute now][7]...
 
-2 [Anger: Why is this happening to me?][2]
-
-3 [Bargaining: What if...?][3]
-
-4 [Depression: I don't care anymore.][4]
-
-5 [Acceptance: Wow. This really is part of my life.][5]
-
-6 [Integration: How is life different? The same? Who am I now?][6]
-
-7 [Co-Creation: I'm ready to contribute now][7]
-
-[0]: https://mindyourheadcoop.org/grieving-a-tbi-to-heal-a-tbi-6cc53ad2305e#.f89syomyv
-[1]: https://mindyourheadcoop.org/denial-this-is-not-happening-to-me-stage-1-of-7-2b59544b8929#.c37jerhio
-[2]: https://mindyourheadcoop.org/anger-why-is-this-happening-to-me-stage-2-of-7-ac1f7a92ec91#.d050tgwx3
-[3]: https://mindyourheadcoop.org/bargaining-what-if-stage-3-of-7-ead42c5bd4fb#.b5lnl73de
-[4]: https://mindyourheadcoop.org/depression-i-don-t-care-anymore-stage-4-of-7-12e938915b4d#.blsz029oq
-[5]: https://medium.com/@DeaconPatrick/acceptance-wow-this-really-is-part-of-my-life-stage-5-of-7-586af3628085#.h13cmmtlh
-[6]: https://medium.com/@DeaconPatrick/integration-how-is-life-different-the-same-who-am-i-now-stage-6-of-7-526a1b19890c#.opbev8fhq
-[7]: https://medium.com/@DeaconPatrick/co-creation-i-m-ready-to-contribute-now-stage-7-of-7-5b9477e60148#.vt81kmnq0
+[0]: http://mindyourheadcoop.org/grieving-a-tbi-to-heal-a-tbi/
+[1]: http://mindyourheadcoop.org/denial-this-is-not-happening-to-me-stage-1-of-7/
+[2]: http://mindyourheadcoop.org/anger-why-is-this-happening-to-me-stage-2-of-7/
+[3]: http://mindyourheadcoop.org/bargaining-what-if-stage-3-of-7/
+[4]: http://mindyourheadcoop.org/depression-i-dont-care-anymore-stage-4-of-7/
+[5]: http://mindyourheadcoop.org/acceptance-wow-this-really-is-part-of-my-life-stage-5-of/
+[6]: http://mindyourheadcoop.org/integration-how-is-life-different-the-same-who-am-i-now/
+[7]: http://mindyourheadcoop.org/co-creation-im-ready-to-contribute-now-stage-7-of-7/
