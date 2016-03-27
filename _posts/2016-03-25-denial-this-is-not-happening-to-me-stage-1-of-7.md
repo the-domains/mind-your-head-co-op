@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'For the first several months of my disabling TBI, I kept trying to will my symptoms away. I had had nearly twenty years of unknowingly willing various symptoms away (looking back, in reality I was ignoring or “cutting through” my symptoms rather than making them disappear) so I could live a normal life. I was quite successful at this, until the symptoms became to great to “cut through” or ignore due to my disabling concussion. I failed miserably, yet for some time was unwilling to acknowledge reality. I kept trying to will it away.'
-datePublished: '2016-03-25T19:20:20.149Z'
-dateModified: '2016-03-25T19:20:17.623Z'
+description: 'In its simplest form, denial finds us trying to convince ourselves that “this is not happening!” However, there are some very sly ways we can do this — all of which are futile attempts at controlling reality. One example comes from my own experience.'
+datePublished: '2016-03-27T16:45:50.201Z'
+dateModified: '2016-03-27T16:45:47.073Z'
 title: 'Denial: This is NOT happening to me!'
 author: []
 sourcePath: _posts/2016-03-25-denial-this-is-not-happening-to-me-stage-1-of-7.md
@@ -59,19 +59,23 @@ and prepare to learn to fly
 without wings.  
 --Patrick A. Jones
 
-Grieving Series Links
-
-### Grieving Series Links
+## Grieving Series Links
 
 [Introduction to Grieving with a TBI][0]
 
 1. [Denial: This is not happening to me][1].
-2. [Anger: Why is this happening][2]?
-3. [Bargaining: What if][3]?
-4. [Depression: I don't care anymore][4].
-5. [Acceptance: Wow. This really is part of my life][5].
-6. [Integration: What's different now][6]?
-7. [Co-Creation: I'm ready to contribute now][7]...
+2. 
+[Anger: Why is this happening][2]?
+3. 
+[Bargaining: What if][3]?
+4. 
+[Depression: I don't care anymore][4].
+5. 
+[Acceptance: Wow. This really is part of my life][5].
+6. 
+[Integration: What's different now][6]?
+7. 
+[Co-Creation: I'm ready to contribute now][7]...
 
 [0]: http://mindyourheadcoop.org/grieving-a-tbi-to-heal-a-tbi/
 [1]: http://mindyourheadcoop.org/denial-this-is-not-happening-to-me-stage-1-of-7/
