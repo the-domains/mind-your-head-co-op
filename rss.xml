@@ -4,8 +4,15 @@
         <description><![CDATA[Mind Your Head Co-op]]></description>
         <link>http://mindyourheadcoop.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 19:49:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2016 19:50:03 GMT</lastBuildDate>
         <atom:link href="http://mindyourheadcoop.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Power of Off]]></title>
+            <description><![CDATA[<article><h1>The Power of Off</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb568377951a0060cefa59d1cd7b2e8c49840984.jpg"></article>]]></description>
+            <link>http://ourholyconception.org/the-power-of-off/</link>
+            <guid isPermaLink="false">99d3a721-6f87-49b7-b81d-b56d9028e3cf</guid>
+            <pubDate>Sun, 10 Apr 2016 19:50:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How to Think Freely]]></title>
             <description><![CDATA[<article><h1>How to Think Freely</h1><p>Things I've discovered (some of which may be universally true for all of us, but that's beyond my scope): That's a lot of lead in to discuss a desk, two notebooks, and a pencil as tools of thought - but context is required to fully appreciate the gift of their simplicity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4308a6e139206abc56340ff945e8ada1b4385f5a.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://mindyourheadcoop.org/null/index.html</link>
             <guid isPermaLink="false">29343e3b-be3e-400b-89d1-17c9b63b210f</guid>
             <pubDate>Fri, 25 Mar 2016 18:03:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Raw, Primal Protective Reflex]]></title>
-            <description><![CDATA[<article><h1>Raw, Primal Protective Reflex</h1><p>TBI anger is unlike any other kind of anger. It taps into our primal instinct to protect ourselves, like any wounded, cornered animal, with a burst of adrenaline. This is the source of the raw, primal strength, energy, focus, and coordination. Once it hits, it can not be stopped, only redirected in a safe direction.</p></article>]]></description>
-            <link>http://mindyourheadcoop.org/tbi-anger-understanding-and-helping/index.html</link>
-            <guid isPermaLink="false">cfc0b5c4-316f-491f-a384-73cd015d4c50</guid>
-            <pubDate>Fri, 25 Mar 2016 17:51:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
