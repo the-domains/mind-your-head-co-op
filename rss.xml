@@ -4,8 +4,15 @@
         <description><![CDATA[Mind Your Head Co-op]]></description>
         <link>http://mindyourheadcoop.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 19:50:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 19:08:46 GMT</lastBuildDate>
         <atom:link href="http://mindyourheadcoop.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ode to a Pencil]]></title>
+            <description><![CDATA[<article><h1>Ode to a Pencil</h1><p>Ah! What wonder, the pencil! Muttled tangle of jumbled through flows through tis elegant wand and out flows delicate, intricacy and lo! the tangle is tamed! There! Here! Behold!</p></article>]]></description>
+            <link>http://mindyourheadcoop.org/ode-to-a-pencil/index.html</link>
+            <guid isPermaLink="false">f1befaee-a78e-43e4-8e3d-c4f07c58ed86</guid>
+            <pubDate>Mon, 18 Apr 2016 19:08:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Power of Off]]></title>
             <description><![CDATA[<article><h1>The Power of Off</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/eb568377951a0060cefa59d1cd7b2e8c49840984.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://mindyourheadcoop.org/co-creation-im-ready-to-contribute-now-stage-7-of-7/index.html</link>
             <guid isPermaLink="false">3ec7a5e4-aab8-47e8-977b-d89f71ef778e</guid>
             <pubDate>Fri, 25 Mar 2016 18:43:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[TBI Torture, AKA Doctor’s Visit]]></title>
-            <description><![CDATA[<article><h1>TBI Torture, AKA Doctor’s Visit</h1><p>People with brain injury who are highly sensitive to sensory stimulation (light, sound, touch, scent, etc.) face a horrible dilemma: be seen/tested by a doctor in an office/hospital that may very well harm them, or ask for accommodation to be seen, be scoffed at, refused, and turned away from medical care.</p></article>]]></description>
-            <link>http://mindyourheadcoop.org/null/index.html</link>
-            <guid isPermaLink="false">29343e3b-be3e-400b-89d1-17c9b63b210f</guid>
-            <pubDate>Fri, 25 Mar 2016 18:03:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
