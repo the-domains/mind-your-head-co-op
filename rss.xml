@@ -4,8 +4,15 @@
         <description><![CDATA[Mind Your Head Co-op]]></description>
         <link>http://mindyourheadcoop.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 19:08:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 23:00:28 GMT</lastBuildDate>
         <atom:link href="http://mindyourheadcoop.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Learning and TBI]]></title>
+            <description><![CDATA[<article><h1>Learning and TBI</h1><p>Learning. Och! How personal that process is. How wondrous we all are, each absorbing and processing information so differently. Yet another example of every brain is different, and thus every brain injury is different also. Here’s what I’ve learned about what I need to absorb, think, write, and draw.</p></article>]]></description>
+            <link>http://mindyourheadcoop.org/learning-and-tbi/index.html</link>
+            <guid isPermaLink="false">476df68a-c46f-485a-ba05-fca22d2b8e6c</guid>
+            <pubDate>Fri, 29 Apr 2016 22:59:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ode to a Pencil]]></title>
             <description><![CDATA[<article><h1>Ode to a Pencil</h1><p>Ah! What wonder, the pencil! Muttled tangle of jumbled through flows through tis elegant wand and out flows delicate, intricacy and lo! the tangle is tamed! There! Here! Behold!</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://mindyourheadcoop.org/depression-i-dont-care-anymore-stage-4-of-7/index.html</link>
             <guid isPermaLink="false">6b1702d9-8d6a-44cb-8822-347448e982c2</guid>
             <pubDate>Fri, 25 Mar 2016 18:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Co-Creating with God]]></title>
-            <description><![CDATA[<article><h1>Co-Creating with God</h1><p>Because we are made in God’s image, we have the built in desire to help create God’s vision by doing what we can to make the world a better place.</p></article>]]></description>
-            <link>http://mindyourheadcoop.org/co-creation-im-ready-to-contribute-now-stage-7-of-7/index.html</link>
-            <guid isPermaLink="false">3ec7a5e4-aab8-47e8-977b-d89f71ef778e</guid>
-            <pubDate>Fri, 25 Mar 2016 18:43:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
