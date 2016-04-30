@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Learning. Och! How personal that process is. How wondrous we all are, each absorbing and processing information so differently. Yet another example of every brain is different, and thus every brain injury is different also. Here’s what I’ve learned about what I need to absorb, think, write, and draw.'
-datePublished: '2016-04-29T22:59:49.426Z'
-dateModified: '2016-04-29T22:56:43.948Z'
+datePublished: '2016-04-30T19:15:06.857Z'
+dateModified: '2016-04-29T22:59:57.727Z'
 title: Learning and TBI
 author: []
+sourcePath: _posts/2016-04-29-learning-and-tbi.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-29-learning-and-tbi.md
-published: true
 url: learning-and-tbi/index.html
 _type: Article
 
