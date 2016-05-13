@@ -4,8 +4,15 @@
         <description><![CDATA[Mind Your Head Co-op]]></description>
         <link>http://mindyourheadcoop.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 19:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 15:26:22 GMT</lastBuildDate>
         <atom:link href="http://mindyourheadcoop.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[TBI Holes]]></title>
+            <description><![CDATA[<article><h1>TBI Holes</h1><h2>Holes of Ignorance</h2><p>Can TBI be better understand as a plethora of holes? Hales dramatically effect life with TBI. It is stunning how many types of holes there are and how various and deep their effect can be.</p></article>]]></description>
+            <link>http://mindyourheadcoop.org/tbi-holes/index.html</link>
+            <guid isPermaLink="false">da7c6c30-637d-4aab-87f4-a81aa5f97ccf</guid>
+            <pubDate>Fri, 13 May 2016 15:26:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Learning and TBI]]></title>
             <description><![CDATA[<article><h1>Learning and TBI</h1><p>Learning. Och! How personal that process is. How wondrous we all are, each absorbing and processing information so differently. Yet another example of every brain is different, and thus every brain injury is different also. Here’s what I’ve learned about what I need to absorb, think, write, and draw.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://mindyourheadcoop.org/bargaining-what-if-stage-3-of-7/index.html</link>
             <guid isPermaLink="false">7d87ce98-b61e-4270-abc1-21de6ce6424f</guid>
             <pubDate>Fri, 25 Mar 2016 18:54:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Need Immediate Help?]]></title>
-            <description><![CDATA[<article><h1>Need Immediate Help?</h1><p> If you, or someone you know has a desire to do yourself or others harm, you must seek out medical help immediately by calling 911.</p></article>]]></description>
-            <link>http://mindyourheadcoop.org/depression-i-dont-care-anymore-stage-4-of-7/index.html</link>
-            <guid isPermaLink="false">6b1702d9-8d6a-44cb-8822-347448e982c2</guid>
-            <pubDate>Fri, 25 Mar 2016 18:50:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
