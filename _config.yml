@@ -1,20 +1,4 @@
-name: Mind Your Head Co-op
-favicon: null
-layout_spectrum: 0.25177
 typography_spectrum: 0.43606
-title: Mind Your Head Co-op
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-77421442-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#faf3e1'
@@ -26,4 +10,21 @@ color:
   lightness: 0.625
   saturation: 0.9386905673891306
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.25177
+analytics:
+  google: UA-77421442-1
+  facebook: null
+  twitter: null
+logo: null
+name: Mind Your Head Co-op
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3e03ac8-4e72-4ae3-a20f-e156baf25073.jpg'
+title: Mind Your Head Co-op
 purpose: []
