@@ -25,6 +25,8 @@ cta:
   domain: null
   bucket: null
   version: null
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3e03ac8-4e72-4ae3-a20f-e156baf25073.jpg'
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3e03ac8-4e72-4ae3-a20f-e156baf25073.jpg
 title: Mind Your Head Co-op
+description: 'Your life, your brain, you''re healing!'
 purpose: []
