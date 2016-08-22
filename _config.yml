@@ -19,7 +19,8 @@ analytics:
   google: UA-77421442-1
   facebook: null
   twitter: null
-logo: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c12c13d-3ccd-4f4d-991f-068715aa713b.jpg
 name: Mind Your Head Co-op
 cta:
   domain: null
