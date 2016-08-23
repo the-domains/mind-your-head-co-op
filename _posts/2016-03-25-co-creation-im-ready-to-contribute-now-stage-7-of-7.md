@@ -1,23 +1,21 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: 'Because we are made in God’s image, we have the built in desire to help create God’s vision by doing what we can to make the world a better place.'
-datePublished: '2016-03-25T18:43:13.781Z'
-dateModified: '2016-03-25T18:43:10.431Z'
-title: 'Co-Creation: I’m ready to contribute now… Stage 7 of 7'
-author: []
+datePublished: '2016-08-23T00:22:04.216Z'
 sourcePath: _posts/2016-03-25-co-creation-im-ready-to-contribute-now-stage-7-of-7.md
-published: true
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-08-23T00:22:03.797Z'
+title: Co-Creating with God
+publisher: {}
+description: >-
+  Because we are made in God’s image, we have the built in desire to help create
+  God’s vision by doing what we can to make the world a better place.
+inLanguage: null
+inNav: false
+via: {}
+starred: false
 url: co-creation-im-ready-to-contribute-now-stage-7-of-7/index.html
 _type: Article
 
@@ -45,7 +43,7 @@ How you build relationship can be as varied as we are. It is usually profoundly 
 12--08--2003  
 _"Take up your cross and follow me," says Jesus our Christ._
 
-So this is my cross --- the gift of Jesus to his friends.  
+So this is my cross --- the gift of Jesus to his friends.  
 How right they were to tell us this would be a long hard road.  
 It is. Arduous. Barren. Bleak.
 
