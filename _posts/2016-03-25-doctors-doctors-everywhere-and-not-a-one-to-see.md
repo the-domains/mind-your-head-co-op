@@ -1,27 +1,33 @@
 ---
+datePublished: '2016-08-23T00:46:35.134Z'
 inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-03-25T16:17:40.482Z'
-dateModified: '2016-03-25T16:17:02.335Z'
-title: 'Doctors, Doctors everywhere and not a one to see.'
-author: []
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-23T00:46:34.567Z'
+title: 'Doctors, Doctors everywhere, but Not a One to See!'
+publisher: {}
+description: >-
+  Massive change in regulation as a result of Obamacare hit our nation on
+  January first, 2014. Doctors are afraid, and they should be. So should their
+  patients. I understand from a hospital board member that the penalty for a
+  doctor’s first offense of not following the regulation is a $100,000 fine.
+  Second offense is lose of their medical license. If that’s true (and I’ve
+  every reason to believe it is), our government is giving doctors less benefit
+  of the doubt than various criminals, who at least get a three-strike rule in
+  their favor before the heavy consequences hit.
+inLanguage: null
+inNav: false
+starred: false
 sourcePath: _posts/2016-03-25-doctors-doctors-everywhere-and-not-a-one-to-see.md
-published: true
 url: doctors-doctors-everywhere-and-not-a-one-to-see/index.html
 _type: Article
 
 ---
+# Doctors, Doctors everywhere, but Not a One to See!
+
 Massive change in regulation as a result of Obamacare hit our nation on January first, 2014\. Doctors are afraid, and they should be. So should their patients. I understand from a hospital board member that the penalty for a doctor's first offense of not following the regulation is a $100,000 fine. Second offense is lose of their medical license. If that's true (and I've every reason to believe it is), our government is giving doctors less benefit of the doubt than various criminals, who at least get a three-strike rule in their favor before the heavy consequences hit.
 
 UPDATE: See update below for some good news!
