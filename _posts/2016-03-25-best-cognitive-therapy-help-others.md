@@ -1,28 +1,30 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-03-25T16:23:05.507Z'
-dateModified: '2016-03-25T16:22:54.702Z'
-title: 'Best Cognitive therapy: Help Others'
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-23T00:52:54.725Z'
 sourcePath: _posts/2016-03-25-best-cognitive-therapy-help-others.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-23T00:52:54.261Z'
+title: 'Best Cognative Therapy: Help Others'
+publisher: {}
+description: >-
+  The best cognitive therapy (activity that stimulates brain connections and
+  healing) there is is reaching out sideways to help others. St. Francis’
+  prescription for eternal wealth is also a powerful prescription for brain
+  health and recovery.
+inLanguage: null
+inNav: false
+starred: false
 url: best-cognitive-therapy-help-others/index.html
 _type: Article
 
 ---
-> _"Remember when you leave this earth, you can take with you nothing that you have received --- only what you have given: A heart enriched by honest service, love, sacrifice and courage." --- Saint Francis of Assisi_
+# Best Cognative Therapy: Help Others
+
+> _"Remember when you leave this earth, you can take with you nothing that you have received --- only what you have given: A heart enriched by honest service, love, sacrifice and courage." --- Saint Francis of Assisi_
 
 The best cognitive therapy (activity that stimulates brain connections and healing) there is is reaching out sideways to help others. St. Francis' prescription for eternal wealth is also a powerful prescription for brain health and recovery.
 
@@ -32,7 +34,7 @@ Why? Simple. We all have an epic battle going on inside us, between our saint (t
 
 The irony is that in the journey of life we make far more progress by pausing and reaching out to help others (which launches us forward in unexpected ways through God's grace) than if we focus on ourselves and block out others.
 
-This is why the [seventh stage of grieving is "Co-Creation"][0] --- by engaging the world and making it a better place we not only serve humbly to build God's kingdom, but we also open ourselves to God's flowing grace --- which will always help us achieve our fullest potential, whatever that is and whatever our capacity.
+This is why the [seventh stage of grieving is "Co-Creation"][0] --- by engaging the world and making it a better place we not only serve humbly to build God's kingdom, but we also open ourselves to God's flowing grace --- which will always help us achieve our fullest potential, whatever that is and whatever our capacity.
 
 May God startle you with joy!
 
