@@ -37,6 +37,9 @@ navigation:
   - name: About
     id: a5524d76-67c2-4107-8cf4-3c2820c56abf
     type: content
+  - name: Start Healing
+    id: 5014cfb3-d385-44db-88db-06f812341142
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3e03ac8-4e72-4ae3-a20f-e156baf25073.jpg
 title: Mind Your Head Co-op
