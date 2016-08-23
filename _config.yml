@@ -37,11 +37,11 @@ navigation:
   - name: Start Healing
     id: 5014cfb3-d385-44db-88db-06f812341142
     type: content
-  - name: Give
-    id: 2adfef1c-8b41-4412-ad2a-c0ee75b67ddf
-    type: content
   - name: Grieving a TBI to Heal a TBI
     id: 6013db31-87ee-4bb9-abc4-f167f0b5f76f
+    type: content
+  - name: Give
+    id: 2adfef1c-8b41-4412-ad2a-c0ee75b67ddf
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3e03ac8-4e72-4ae3-a20f-e156baf25073.jpg
