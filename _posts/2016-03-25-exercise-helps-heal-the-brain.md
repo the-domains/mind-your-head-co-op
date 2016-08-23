@@ -1,40 +1,44 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-03-25T16:40:00.797Z'
-dateModified: '2016-03-25T16:40:00.211Z'
-title: Exercise Helps Heal the Brain
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-23T00:47:55.926Z'
 sourcePath: _posts/2016-03-25-exercise-helps-heal-the-brain.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-23T00:47:55.542Z'
+title: Exercise Helps Heal the Brain
+publisher: {}
+description: >-
+  Exercise really does help heal the brain. One of the now known ways it does is
+  by helping generate new mitochondria in the brain and throughout the nervous
+  system. When mitochondria, the powerhouse within each cell of the body, get
+  low neurons risk dysfunction or death. Running the Colorado Trail, along with
+  all other forms of exercise, help heal my brain. What exercise do you find
+  helps heal yours?
+inLanguage: null
+inNav: false
+starred: false
 url: exercise-helps-heal-the-brain/index.html
 _type: Article
 
 ---
+# Exercise Helps Heal the Brain
+
 Exercise really does help heal the brain. One of the now known ways it does is by helping generate new mitochondria in the brain and throughout the nervous system. When mitochondria, the powerhouse within each cell of the body, get low neurons risk dysfunction or death. Running the Colorado Trail, along with all other forms of exercise, help heal my brain. What exercise do you find helps heal yours?
 
 Here are the articles and the pertinent quotes:
 
-[**Exercise Training Increases Mitochondrial Biogenesis in the Brain**][0]
+**[Exercise Training Increases Mitochondrial Biogenesis in the Brain][0]**
 
 > _"These findings suggest that exercise training increases brain mitochondrial biogenesis which may have important implications, not only with regard to fatigue, but also with respect to various central nervous system diseases and age-related dementia that are often characterized by mitochondrial dysfunction."_
 
-[**Impaired cerebral mitochondrial function after traumatic brain injury in humans**][1]
+**[Impaired cerebral mitochondrial function after traumatic brain injury in humans][1]**
 
 > _"Decreased oxygen metabolism due to mitochondrial dysfunction must be taken into account when clinically defining ischemia and interpreting oxygen measurements such as jugular venous oxygen saturation, arteriovenous difference in oxygen content, direct tissue oxygen tension, and cerebral blood oxygen content determined using near-infrared spectroscopy. Restoring mitochondrial function might be as important as maintaining oxygen delivery."_
 
-[**Mitochondria (the Powerhouses of our Cells) and Brain Disease**][2]
+**[Mitochondria (the Powerhouses of our Cells) and Brain Disease][2]**
 
 > _"Mitochondrial defects are now described in a wide spectrum of human conditions, including neurodegenerative and metabolic diseases, aging, and cancer. Further studies examining the importance of mitochondrial pathophysiology in neurodegenerative diseases such as AD and HD may provide important insight into neurodegenerative disease pathogenesis and may indeed provide a target for specific therapies._
 
