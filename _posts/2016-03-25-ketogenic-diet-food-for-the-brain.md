@@ -5,19 +5,24 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Ketogenic simply means getting your primary energy by burning fat, as opposed to most people in the US today who get most of their energy by burning glucose. Science is showing us that when fat is our primary fuel we function much smoother and healthier — including multiple studies showing brain benefits of burning fat os our primary fuel. In essence we access God’s engineering by shifting to burning fat rather than glucose.'
-datePublished: '2016-03-25T16:41:06.366Z'
-dateModified: '2016-03-25T16:41:05.917Z'
+description: >-
+  Ketogenic simply means getting your primary energy by burning fat, as opposed
+  to most people in the US today who get most of their energy by burning
+  glucose. Science is showing us that when fat is our primary fuel we function
+  much smoother and healthier — including multiple studies showing brain
+  benefits of burning fat os our primary fuel. In essence we access God’s
+  engineering by shifting to burning fat rather than glucose.
+datePublished: '2016-08-23T00:19:23.692Z'
+dateModified: '2016-03-25T17:40:43.012Z'
 title: 'Ketogenic Diet: Food for the Brain'
 author: []
+sourcePath: _posts/2016-03-25-ketogenic-diet-food-for-the-brain.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-25-ketogenic-diet-food-for-the-brain.md
-published: true
 url: ketogenic-diet-food-for-the-brain/index.html
 _type: Article
 
