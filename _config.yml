@@ -31,11 +31,11 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Give
-    id: 2adfef1c-8b41-4412-ad2a-c0ee75b67ddf
-    type: content
   - name: About
     id: a5524d76-67c2-4107-8cf4-3c2820c56abf
+    type: content
+  - name: Give
+    id: 2adfef1c-8b41-4412-ad2a-c0ee75b67ddf
     type: content
   - name: Start Healing
     id: 5014cfb3-d385-44db-88db-06f812341142
