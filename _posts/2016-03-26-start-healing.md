@@ -3,21 +3,22 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: 'Entering life as fully as possible is the best therapy possible for healing our brain. This website offers tips and approaches quite different from what you may have heard from your doctors. This is because the medical world focuses on acute care, demanding rapid results, and it does not understand long term healing and living with a chronic brain injury.'
-datePublished: '2016-03-26T17:28:18.706Z'
-dateModified: '2016-03-26T17:27:59.387Z'
-title: Start Healing
+description: >-
+  Entering life as fully as possible is the best therapy possible for healing
+  our brain. This website offers tips and approaches quite different from what
+  you may have heard from your doctors. This is because the medical world
+  focuses on acute care, demanding rapid results, and it does not understand
+  long term healing and living with a chronic brain injury.
+datePublished: '2016-08-23T00:07:51.723Z'
+dateModified: '2016-08-23T00:07:51.200Z'
+title: 'Best Therapy: Enter Life as Fully As Possible'
 author: []
 sourcePath: _posts/2016-03-26-start-healing.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
+starred: false
 url: start-healing/index.html
 _type: WebPage
 
