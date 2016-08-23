@@ -4,8 +4,15 @@
         <description><![CDATA[Mind Your Head Co-op]]></description>
         <link>http://mindyourheadcoop.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 00:51:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 00:51:37 GMT</lastBuildDate>
         <atom:link href="http://mindyourheadcoop.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Spend a Day On Planet TBI]]></title>
+            <description><![CDATA[<article><h1>Spend a Day On Planet TBI</h1><p>For those who want or need to understand what it is like (sort of) to be blind or deaf, that is relatively easy to accomplish. Block those senses. It doesn’t give an appreciation for what it is like to live without sight or sound day in and day out, but you get an excellent taste.</p></article>]]></description>
+            <link>http://mindyourheadcoop.org/spend-a-day-on-planet-tbi/index.html</link>
+            <guid isPermaLink="false">eb2940d6-ee0b-495b-b2f0-d41dff085197</guid>
+            <pubDate>Tue, 23 Aug 2016 00:51:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Och! my Head! Understanding TBI Headaches]]></title>
             <description><![CDATA[<article><h1>Och! my Head! Understanding TBI Headaches</h1><h2>Muscle/Tension Headache:</h2><p>Brain injury bring about some amazing headaches. Some come with light shows and sounds of freight trains. They can leave us debilitated for days in ways we may never have thought possible.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://mindyourheadcoop.org/learning-and-tbi/index.html</link>
             <guid isPermaLink="false">476df68a-c46f-485a-ba05-fca22d2b8e6c</guid>
             <pubDate>Tue, 23 Aug 2016 00:16:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ode to a Pencil]]></title>
-            <description><![CDATA[<article><h1>Ode to a Pencil</h1><p>Ah! What wonder, the pencil! Muttled tangle of jumbled through flows through tis elegant wand and out flows delicate, intricacy and lo! the tangle is tamed! There! Here! Behold!</p></article>]]></description>
-            <link>http://mindyourheadcoop.org/ode-to-a-pencil/index.html</link>
-            <guid isPermaLink="false">f1befaee-a78e-43e4-8e3d-c4f07c58ed86</guid>
-            <pubDate>Tue, 23 Aug 2016 00:16:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
