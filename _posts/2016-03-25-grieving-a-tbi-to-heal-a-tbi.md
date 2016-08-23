@@ -3,21 +3,22 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: 'Our society does not deal with pain and loss very well, particularly pain that does not disappear after a week or two. So it should come as no surprise that we may not know how to deal with the pain we experience because of our loss of capacity. Close loved ones also need to grieve the loss, especially if their own lives have changed as a result.'
-datePublished: '2016-03-25T18:40:44.100Z'
-dateModified: '2016-03-25T18:40:15.677Z'
+description: >-
+  Our society does not deal with pain and loss very well, particularly pain that
+  does not disappear after a week or two. So it should come as no surprise that
+  we may not know how to deal with the pain we experience because of our loss of
+  capacity. Close loved ones also need to grieve the loss, especially if their
+  own lives have changed as a result.
+datePublished: '2016-08-23T00:08:28.069Z'
+dateModified: '2016-08-23T00:08:27.578Z'
 title: Grieving a TBI to Heal a TBI
 author: []
 sourcePath: _posts/2016-03-25-grieving-a-tbi-to-heal-a-tbi.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
+starred: false
 url: grieving-a-tbi-to-heal-a-tbi/index.html
 _type: WebPage
 
@@ -81,7 +82,7 @@ that I am grieving. Amen.
 
 4\. [Depression: I don't care anymore][4].
 
-5\. Acceptance: [Wow. This really is part of my life][5].
+5\. [Acceptance: Wow. This really is part of my life][5].
 
 6\.[Integration: What's different now][6]?
 
