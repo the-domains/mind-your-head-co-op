@@ -1,4 +1,3 @@
-layout_spectrum: 0.15413541346788406
 typography_spectrum: 0.21550952084362507
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.15413541346788406
 analytics:
   google: UA-77421442-1
   facebook: null
@@ -30,6 +30,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Give
+    id: 2adfef1c-8b41-4412-ad2a-c0ee75b67ddf
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3e03ac8-4e72-4ae3-a20f-e156baf25073.jpg
 title: Mind Your Head Co-op
