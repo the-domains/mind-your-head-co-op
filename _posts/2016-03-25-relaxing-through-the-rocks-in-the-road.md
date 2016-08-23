@@ -1,30 +1,33 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-03-25T17:54:59.839Z'
-dateModified: '2016-03-25T16:36:28.803Z'
-title: Relaxing through the rocks in the road
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-23T00:49:49.970Z'
 sourcePath: _posts/2016-03-25-relaxing-through-the-rocks-in-the-road.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-23T00:49:49.637Z'
+title: Relaxing Through The Rocks in the Road
+publisher: {}
+description: >-
+  “Life is pain, Highness. Anyone who tells you different is selling something.”
+  – Wesley (aka the Great Pirate Roberts) in the film “The Princess Bride”Life
+  with brain injury is often compared to a “long hard road.” It is. It’s got
+  extreme ups and downs plus all kinds of rocks and other challenges. The
+  question is, what do we do about it?
+inLanguage: null
+inNav: false
+starred: false
 url: relaxing-through-the-rocks-in-the-road/index.html
 _type: Article
 
 ---
-> _"Life is pain, Highness. Anyone who tells you different is selling something."  __-- Wesley (aka the Great Pirate Roberts) in the film "The Princess Bride"_
+# Relaxing Through The Rocks in the Road
 
-Life with brain injury is often compared to a "long hard road." It is. It's got extreme ups and downs plus all kinds of rocks and other challenges. The question is, what do we do about it?
+> _"Life is pain, Highness. Anyone who tells you different is selling something." -- Wesley (aka the Great Pirate Roberts) in the film "The Princess Bride"_
+> 
+> Life with brain injury is often compared to a "long hard road." It is. It's got extreme ups and downs plus all kinds of rocks and other challenges. The question is, what do we do about it?
 
 The road, after all, is the road. It's ours to travel. How do we travel it with the greatest amount of joy and the least amount of pain? Attitude and faith.
 
