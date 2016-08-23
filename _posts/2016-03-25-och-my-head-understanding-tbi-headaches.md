@@ -1,30 +1,31 @@
 ---
+datePublished: '2016-08-23T00:51:00.405Z'
 inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: undefined
-datePublished: '2016-03-25T16:33:21.550Z'
-dateModified: '2016-03-25T16:33:04.678Z'
-title: 'Och! My Head! Understanding TBI Headaches'
-author: []
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-23T00:51:00.101Z'
+title: Och! my Head! Understanding TBI Headaches
+publisher: {}
+description: >-
+  Brain injury bring about some amazing headaches. Some come with light shows
+  and sounds of freight trains. They can leave us debilitated for days in ways
+  we may never have thought possible.
+inLanguage: null
+inNav: false
+starred: false
 sourcePath: _posts/2016-03-25-och-my-head-understanding-tbi-headaches.md
-published: true
 url: och-my-head-understanding-tbi-headaches/index.html
 _type: Article
 
 ---
+# Och! my Head! Understanding TBI Headaches
+
 Brain injury bring about some amazing headaches. Some come with light shows and sounds of freight trains. They can leave us debilitated for days in ways we may never have thought possible.
 
-Here is a description of the various headaches I have now with TBI and what I've found to be effective in treating them. I'd love to learn from your experience as well --- comment away in the comments!
+Here is a description of the various headaches I have now with TBI and what I've found to be effective in treating them. I'd love to learn from your experience as well --- comment away in the comments!
 
 ## Muscle/Tension Headache:
 
