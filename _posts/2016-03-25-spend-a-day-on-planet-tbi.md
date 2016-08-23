@@ -1,27 +1,29 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-03-25T16:29:19.263Z'
-dateModified: '2016-03-25T16:29:18.860Z'
-title: Spend a Day on Planet TBI
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-author: []
+datePublished: '2016-08-23T00:51:36.465Z'
 sourcePath: _posts/2016-03-25-spend-a-day-on-planet-tbi.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-23T00:51:36.054Z'
+title: Spend a Day On Planet TBI
+publisher: {}
+description: >-
+  For those who want or need to understand what it is like (sort of) to be blind
+  or deaf, that is relatively easy to accomplish. Block those senses. It doesn’t
+  give an appreciation for what it is like to live without sight or sound day in
+  and day out, but you get an excellent taste.
+inLanguage: null
+inNav: false
+starred: false
 url: spend-a-day-on-planet-tbi/index.html
 _type: Article
 
 ---
+# Spend a Day On Planet TBI
+
 For those who want or need to understand what it is like (sort of) to be blind or deaf, that is relatively easy to accomplish. Block those senses. It doesn't give an appreciation for what it is like to live without sight or sound day in and day out, but you get an excellent taste.
 
 Understanding what someone with brain injury experiences is a big challenge. Brain injury puts us on a different planet, where sound, light, smells, gravity, thought and more are all amplified, thicker, stickier, harder, and otherwise completely different than you experience on Earth. Trouble is, we look like we live on the same planet you do, so what we experience is very hard to understand.
