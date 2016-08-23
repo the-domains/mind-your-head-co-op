@@ -1,25 +1,27 @@
 ---
-datePublished: '2016-08-23T00:22:04.216Z'
+datePublished: '2016-08-23T00:25:02.535Z'
 sourcePath: _posts/2016-03-25-co-creation-im-ready-to-contribute-now-stage-7-of-7.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-08-23T00:22:03.797Z'
-title: Co-Creating with God
+via: {}
+dateModified: '2016-08-23T00:25:02.101Z'
+title: '7. Co-Creation: I’m Ready to Contribute Now…'
 publisher: {}
 description: >-
   Because we are made in God’s image, we have the built in desire to help create
   God’s vision by doing what we can to make the world a better place.
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: co-creation-im-ready-to-contribute-now-stage-7-of-7/index.html
 _type: Article
 
 ---
+# 7\. Co-Creation: I'm Ready to Contribute Now...
+
 ## Co-Creating with God
 
 Because we are made in God's image, we have the built in desire to help create God's vision by doing what we can to make the world a better place.
